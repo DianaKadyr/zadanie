@@ -1,0 +1,1704 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1712,
+            "pages": 1430,
+            "isbn13": "978-1-911124-05-4",
+            "rating": 3.002,
+            "price": 516.46,
+            "discount": 29,
+            "author": [
+                "Keith Miller",
+                "Andrew Cruz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1702,
+            "pages": 255,
+            "isbn13": "978-1-04-654174-0",
+            "rating": 0.242,
+            "price": 667.62,
+            "discount": 89,
+            "author": [
+                "Lisa Bonilla"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1875,
+            "pages": 978,
+            "isbn13": "978-0-233-40190-4",
+            "rating": 3.24,
+            "price": 760.9,
+            "discount": 9,
+            "author": [
+                "Jamie Jenkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1773,
+            "pages": 1106,
+            "isbn13": "978-0-8130-9411-3",
+            "rating": 2.16,
+            "price": 509.06,
+            "discount": 76,
+            "author": [
+                "Shannon Jensen",
+                "Brooke Clark",
+                "Marc Kelley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1754,
+            "pages": 1228,
+            "isbn13": "978-0-7718-6234-2",
+            "rating": 1.195,
+            "price": 5.67,
+            "discount": 50,
+            "author": [
+                "Roger Howell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1878,
+            "pages": 962,
+            "isbn13": "978-0-526-57964-8",
+            "rating": 1.405,
+            "price": 335.11,
+            "discount": 23,
+            "author": [
+                "Sheena Valdez",
+                "Daniel Moody"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1860,
+            "pages": 1264,
+            "isbn13": "978-0-449-46866-1",
+            "rating": 0.082,
+            "price": 314.45,
+            "discount": 33,
+            "author": [
+                "Rebecca Villegas",
+                "Stephen Gonzales"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1771,
+            "pages": 635,
+            "isbn13": "978-0-9813660-4-3",
+            "rating": 0.187,
+            "price": 978.7,
+            "discount": 89,
+            "author": [
+                "Angela Banks",
+                "Mr. Alexander Robinson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1764,
+            "pages": 587,
+            "isbn13": "978-1-84535-815-0",
+            "rating": 0.379,
+            "price": 272.53,
+            "discount": 31,
+            "author": [
+                "Sara Young",
+                "Erin Leblanc"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1852,
+            "pages": 183,
+            "isbn13": "978-1-991942-23-4",
+            "rating": 4.517,
+            "price": 60.24,
+            "discount": 23,
+            "author": [
+                "Kelli Davidson",
+                "Troy Alexander",
+                "Linda Barton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1708,
+            "pages": 80,
+            "isbn13": "978-0-920563-99-1",
+            "rating": 2.918,
+            "price": 546.48,
+            "discount": 19,
+            "author": [
+                "Crystal Valentine",
+                "Heather Allison",
+                "Ryan Stephenson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1712,
+            "pages": 41,
+            "isbn13": "978-1-876317-65-2",
+            "rating": 4.519,
+            "price": 564.77,
+            "discount": 80,
+            "author": [
+                "Amber Dawson",
+                "Jason Brown",
+                "Briana Vaughn"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1878,
+            "pages": 404,
+            "isbn13": "978-0-479-24058-9",
+            "rating": 2.579,
+            "price": 773.25,
+            "discount": 54,
+            "author": [
+                "Matthew Rose",
+                "Jamie Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1970,
+            "pages": 1031,
+            "isbn13": "978-0-86520-090-6",
+            "rating": 4.096,
+            "price": 254.61,
+            "discount": 48,
+            "author": [
+                "Lindsey Keller",
+                "Gabrielle Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1977,
+            "pages": 147,
+            "isbn13": "978-0-10-173308-3",
+            "rating": 0.943,
+            "price": 736.05,
+            "discount": 11,
+            "author": [
+                "Anthony Ingram",
+                "Nicole Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1795,
+            "pages": 385,
+            "isbn13": "978-1-05-628350-0",
+            "rating": 1.701,
+            "price": 309.03,
+            "discount": 72,
+            "author": [
+                "Diana Daniels",
+                "Anna Campbell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1722,
+            "pages": 1028,
+            "isbn13": "978-0-315-42975-8",
+            "rating": 0.999,
+            "price": 351.96,
+            "discount": 72,
+            "author": [
+                "Jackson Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1836,
+            "pages": 209,
+            "isbn13": "978-0-03-908608-4",
+            "rating": 1.966,
+            "price": 815.29,
+            "discount": 28,
+            "author": [
+                "Sarah Craig",
+                "David Bowman",
+                "Daniel Crane"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1916,
+            "pages": 686,
+            "isbn13": "978-1-246-27183-6",
+            "rating": 2.749,
+            "price": 28.65,
+            "discount": 62,
+            "author": [
+                "Lynn Sullivan",
+                "Timothy Williams",
+                "Robin Armstrong"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1758,
+            "pages": 493,
+            "isbn13": "978-1-67832-857-3",
+            "rating": 2.195,
+            "price": 21.08,
+            "discount": 93,
+            "author": [
+                "Michael Baker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1775,
+            "pages": 1334,
+            "isbn13": "978-1-4056-7115-6",
+            "rating": 0.177,
+            "price": 899.29,
+            "discount": 13,
+            "author": [
+                "Carrie Smith",
+                "James Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 2014,
+            "pages": 1371,
+            "isbn13": "978-0-515-95695-5",
+            "rating": 2.371,
+            "price": 260.62,
+            "discount": 49,
+            "author": [
+                "Kimberly Ramirez",
+                "Brandi Werner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1824,
+            "pages": 128,
+            "isbn13": "978-1-319-84526-1",
+            "rating": 1.981,
+            "price": 999.35,
+            "discount": 100,
+            "author": [
+                "Terry Mueller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1888,
+            "pages": 948,
+            "isbn13": "978-0-220-58649-2",
+            "rating": 4.028,
+            "price": 142.82,
+            "discount": 61,
+            "author": [
+                "Stacey Martinez",
+                "Kim Carney"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1983,
+            "pages": 138,
+            "isbn13": "978-1-07-735283-4",
+            "rating": 2.051,
+            "price": 98.22,
+            "discount": 28,
+            "author": [
+                "Jonathan Fitzpatrick"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1761,
+            "pages": 1228,
+            "isbn13": "978-1-304-13257-4",
+            "rating": 4.314,
+            "price": 256.66,
+            "discount": 49,
+            "author": [
+                "Vincent Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1739,
+            "pages": 937,
+            "isbn13": "978-0-382-13122-6",
+            "rating": 2.318,
+            "price": 33.24,
+            "discount": 22,
+            "author": [
+                "Ellen Bailey"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1910,
+            "pages": 674,
+            "isbn13": "978-0-283-89373-5",
+            "rating": 0.647,
+            "price": 237.69,
+            "discount": 26,
+            "author": [
+                "Travis Olson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1994,
+            "pages": 1403,
+            "isbn13": "978-1-79806-995-0",
+            "rating": 1.44,
+            "price": 586.72,
+            "discount": 12,
+            "author": [
+                "Jeffrey Dean",
+                "Dustin Daniels"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1974,
+            "pages": 50,
+            "isbn13": "978-1-68440-858-0",
+            "rating": 3.561,
+            "price": 897.34,
+            "discount": 90,
+            "author": [
+                "Sharon Phillips",
+                "Timothy Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1702,
+            "pages": 1312,
+            "isbn13": "978-1-373-26865-5",
+            "rating": 3.158,
+            "price": 26.88,
+            "discount": 64,
+            "author": [
+                "Eric Jimenez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1985,
+            "pages": 1040,
+            "isbn13": "978-0-287-80619-9",
+            "rating": 4.708,
+            "price": 586.11,
+            "discount": 33,
+            "author": [
+                "Tonya Marquez",
+                "Stacy Morales"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1869,
+            "pages": 729,
+            "isbn13": "978-1-71401-684-6",
+            "rating": 3.258,
+            "price": 649.79,
+            "discount": 27,
+            "author": [
+                "Theresa Oneill",
+                "Colton Rivera",
+                "Sarah White"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1963,
+            "pages": 76,
+            "isbn13": "978-1-81625-659-1",
+            "rating": 1.077,
+            "price": 189.16,
+            "discount": 17,
+            "author": [
+                "David Ortiz",
+                "April Stokes",
+                "Eric Jacobson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1779,
+            "pages": 855,
+            "isbn13": "978-0-7859-8202-9",
+            "rating": 1.084,
+            "price": 490.27,
+            "discount": 48,
+            "author": [
+                "Joseph Lee"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1735,
+            "pages": 213,
+            "isbn13": "978-0-14-400368-6",
+            "rating": 0.029,
+            "price": 287.62,
+            "discount": 5,
+            "author": [
+                "James Miller",
+                "Austin Ruiz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1746,
+            "pages": 278,
+            "isbn13": "978-0-05-197723-0",
+            "rating": 3.639,
+            "price": 372.91,
+            "discount": 48,
+            "author": [
+                "Jennifer Diaz",
+                "Colin Gutierrez",
+                "Courtney Kaiser"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1808,
+            "pages": 2,
+            "isbn13": "978-0-9919612-3-8",
+            "rating": 3.35,
+            "price": 998.57,
+            "discount": 3,
+            "author": [
+                "Heather Boyd"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "Война и мир",
+            "year": 2018,
+            "pages": 441,
+            "isbn13": "978-1-956812-17-6",
+            "rating": 1.285,
+            "price": 976.53,
+            "discount": 16,
+            "author": [
+                "Christopher Berry"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1870,
+            "pages": 1408,
+            "isbn13": "978-0-496-55631-1",
+            "rating": 1.537,
+            "price": 326.32,
+            "discount": 43,
+            "author": [
+                "Robert Thompson",
+                "Daniel Martinez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1728,
+            "pages": 451,
+            "isbn13": "978-1-9807-4261-6",
+            "rating": 0.58,
+            "price": 161.11,
+            "discount": 41,
+            "author": [
+                "Dr. Kari Mccoy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1820,
+            "pages": 383,
+            "isbn13": "978-1-903686-33-1",
+            "rating": 1.261,
+            "price": 620.97,
+            "discount": 32,
+            "author": [
+                "Melissa Romero",
+                "Erika Lane",
+                "Philip Clayton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1953,
+            "pages": 995,
+            "isbn13": "978-1-222-50804-8",
+            "rating": 0.744,
+            "price": 709.95,
+            "discount": 63,
+            "author": [
+                "Thomas Pace",
+                "Whitney Soto",
+                "Mathew Ward"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1818,
+            "pages": 420,
+            "isbn13": "978-1-389-89775-7",
+            "rating": 2.319,
+            "price": 659.12,
+            "discount": 57,
+            "author": [
+                "Haley Cannon",
+                "Emily Salinas",
+                "Alicia Santos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1923,
+            "pages": 456,
+            "isbn13": "978-0-7259-6998-1",
+            "rating": 1.413,
+            "price": 654.01,
+            "discount": 0,
+            "author": [
+                "Alexander Santos",
+                "Henry Willis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1896,
+            "pages": 1066,
+            "isbn13": "978-1-62653-622-7",
+            "rating": 1.883,
+            "price": 185.28,
+            "discount": 98,
+            "author": [
+                "Sabrina Moody",
+                "Clayton Tucker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1710,
+            "pages": 702,
+            "isbn13": "978-0-642-86030-9",
+            "rating": 1.48,
+            "price": 727.88,
+            "discount": 41,
+            "author": [
+                "Ashley Mendez",
+                "Timothy Jordan",
+                "Christopher Jarvis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1849,
+            "pages": 955,
+            "isbn13": "978-0-339-25499-2",
+            "rating": 2.683,
+            "price": 195.6,
+            "discount": 21,
+            "author": [
+                "Elizabeth Campos",
+                "Amber Patrick"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1744,
+            "pages": 365,
+            "isbn13": "978-0-350-06600-0",
+            "rating": 2.973,
+            "price": 710.96,
+            "discount": 82,
+            "author": [
+                "Philip Johnston",
+                "Valerie Esparza",
+                "Jessica Green"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1812,
+            "pages": 816,
+            "isbn13": "978-0-690-29736-2",
+            "rating": 1.467,
+            "price": 567.89,
+            "discount": 44,
+            "author": [
+                "Rodney Dickerson",
+                "Lori Ho",
+                "Dalton Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1875,
+            "pages": 1473,
+            "isbn13": "978-1-5273-8583-2",
+            "rating": 2.557,
+            "price": 120.08,
+            "discount": 23,
+            "author": [
+                "Terri Clarke",
+                "Ryan Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1824,
+            "pages": 570,
+            "isbn13": "978-1-84582-294-1",
+            "rating": 3.416,
+            "price": 44.76,
+            "discount": 85,
+            "author": [
+                "Daniel Taylor",
+                "John Smith",
+                "Nancy Doyle"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1766,
+            "pages": 430,
+            "isbn13": "978-1-262-77290-4",
+            "rating": 3.544,
+            "price": 295.02,
+            "discount": 94,
+            "author": [
+                "Kyle Simpson",
+                "Thomas Martin DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1764,
+            "pages": 1488,
+            "isbn13": "978-1-06-629549-4",
+            "rating": 0.229,
+            "price": 613.5,
+            "discount": 37,
+            "author": [
+                "Marissa Khan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1716,
+            "pages": 670,
+            "isbn13": "978-0-9885959-6-5",
+            "rating": 2.495,
+            "price": 659.04,
+            "discount": 67,
+            "author": [
+                "William Garcia",
+                "Desiree Villanueva"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1744,
+            "pages": 1394,
+            "isbn13": "978-1-9750-9152-1",
+            "rating": 1.449,
+            "price": 770.36,
+            "discount": 4,
+            "author": [
+                "Kelly Edwards",
+                "Joshua Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1762,
+            "pages": 517,
+            "isbn13": "978-0-609-33920-6",
+            "rating": 2.15,
+            "price": 136.4,
+            "discount": 4,
+            "author": [
+                "Francis Klein",
+                "Miranda Reid",
+                "David Gentry"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1910,
+            "pages": 207,
+            "isbn13": "978-0-08-205681-2",
+            "rating": 2.564,
+            "price": 108.11,
+            "discount": 68,
+            "author": [
+                "William Perez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1996,
+            "pages": 457,
+            "isbn13": "978-1-81541-698-9",
+            "rating": 2.005,
+            "price": 537.56,
+            "discount": 74,
+            "author": [
+                "Kathy Silva",
+                "Amy Scott",
+                "Karen Bishop"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1980,
+            "pages": 457,
+            "isbn13": "978-0-7647-0564-9",
+            "rating": 2.375,
+            "price": 801.89,
+            "discount": 65,
+            "author": [
+                "Craig Friedman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1932,
+            "pages": 540,
+            "isbn13": "978-1-75768-738-6",
+            "rating": 4.583,
+            "price": 64.92,
+            "discount": 27,
+            "author": [
+                "Christy Henson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1906,
+            "pages": 1414,
+            "isbn13": "978-1-4753-5696-0",
+            "rating": 2.542,
+            "price": 379.22,
+            "discount": 77,
+            "author": [
+                "Jerry Lyons",
+                "Kimberly Robinson",
+                "Richard Stuart MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1771,
+            "pages": 1416,
+            "isbn13": "978-1-76493-053-6",
+            "rating": 0.25,
+            "price": 161.14,
+            "discount": 22,
+            "author": [
+                "Mitchell Young"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1773,
+            "pages": 266,
+            "isbn13": "978-0-07-212207-7",
+            "rating": 3.388,
+            "price": 909.25,
+            "discount": 52,
+            "author": [
+                "Jennifer Guzman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1853,
+            "pages": 1387,
+            "isbn13": "978-0-00-925517-5",
+            "rating": 3.667,
+            "price": 385.63,
+            "discount": 98,
+            "author": [
+                "Ian Daniel",
+                "Nicole Norris",
+                "Laura Robertson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1822,
+            "pages": 562,
+            "isbn13": "978-1-9857-4587-2",
+            "rating": 0.862,
+            "price": 91.5,
+            "discount": 5,
+            "author": [
+                "Kelly Hernandez",
+                "Cody Petersen MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1996,
+            "pages": 1031,
+            "isbn13": "978-0-9705968-7-1",
+            "rating": 0.813,
+            "price": 140.73,
+            "discount": 40,
+            "author": [
+                "Melissa Madden",
+                "Brandy Smith",
+                "Adam Molina"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1733,
+            "pages": 371,
+            "isbn13": "978-0-638-73349-5",
+            "rating": 1.245,
+            "price": 733.01,
+            "discount": 56,
+            "author": [
+                "Debra Thompson",
+                "Christopher Jones",
+                "Sabrina Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1726,
+            "pages": 30,
+            "isbn13": "978-0-9627424-6-0",
+            "rating": 2.936,
+            "price": 126.46,
+            "discount": 89,
+            "author": [
+                "Clayton Lane",
+                "Mr. William Hodges",
+                "Kathryn Macias"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1823,
+            "pages": 488,
+            "isbn13": "978-0-467-34329-2",
+            "rating": 3.206,
+            "price": 39.82,
+            "discount": 44,
+            "author": [
+                "Michael Kim",
+                "Carlos Johnson",
+                "Joseph Mitchell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1719,
+            "pages": 285,
+            "isbn13": "978-0-656-88454-4",
+            "rating": 2.541,
+            "price": 42.34,
+            "discount": 71,
+            "author": [
+                "Jessica Jones",
+                "Debbie Mcintosh",
+                "William Odonnell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1733,
+            "pages": 825,
+            "isbn13": "978-0-567-66935-3",
+            "rating": 3.336,
+            "price": 987.97,
+            "discount": 95,
+            "author": [
+                "Marie Stein"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1973,
+            "pages": 1450,
+            "isbn13": "978-0-294-14919-7",
+            "rating": 3.219,
+            "price": 965.35,
+            "discount": 0,
+            "author": [
+                "George Hughes",
+                "Jordan Fischer",
+                "George Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1872,
+            "pages": 925,
+            "isbn13": "978-1-7350452-0-7",
+            "rating": 4.045,
+            "price": 180.96,
+            "discount": 90,
+            "author": [
+                "Tamara Rose",
+                "Paul Larson",
+                "Jack Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1987,
+            "pages": 999,
+            "isbn13": "978-0-18-397180-9",
+            "rating": 1.074,
+            "price": 987.74,
+            "discount": 52,
+            "author": [
+                "Karen Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1817,
+            "pages": 1106,
+            "isbn13": "978-0-248-80235-2",
+            "rating": 2.51,
+            "price": 465.33,
+            "discount": 90,
+            "author": [
+                "Adam Douglas"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1713,
+            "pages": 549,
+            "isbn13": "978-0-286-13936-6",
+            "rating": 2.296,
+            "price": 390.91,
+            "discount": 80,
+            "author": [
+                "Anthony Christensen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1961,
+            "pages": 326,
+            "isbn13": "978-0-89587-853-3",
+            "rating": 1.494,
+            "price": 690.38,
+            "discount": 66,
+            "author": [
+                "Brenda Brown",
+                "Joshua Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1934,
+            "pages": 934,
+            "isbn13": "978-0-512-92506-0",
+            "rating": 2.996,
+            "price": 913.15,
+            "discount": 26,
+            "author": [
+                "Shawn Evans",
+                "Ashley Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1882,
+            "pages": 1153,
+            "isbn13": "978-1-76091-538-4",
+            "rating": 3.005,
+            "price": 521.79,
+            "discount": 80,
+            "author": [
+                "Barbara Mullins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 2006,
+            "pages": 345,
+            "isbn13": "978-0-901438-69-0",
+            "rating": 0.637,
+            "price": 91.16,
+            "discount": 36,
+            "author": [
+                "John Miller",
+                "Kristen Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1972,
+            "pages": 522,
+            "isbn13": "978-0-16-268367-9",
+            "rating": 2.388,
+            "price": 130.63,
+            "discount": 100,
+            "author": [
+                "Anthony Price"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1950,
+            "pages": 940,
+            "isbn13": "978-1-396-71810-6",
+            "rating": 3.857,
+            "price": 113.41,
+            "discount": 13,
+            "author": [
+                "Donna Cain"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1737,
+            "pages": 1015,
+            "isbn13": "978-1-78184-891-3",
+            "rating": 4.557,
+            "price": 346.38,
+            "discount": 43,
+            "author": [
+                "Alice James",
+                "Michael Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1969,
+            "pages": 493,
+            "isbn13": "978-0-485-25563-8",
+            "rating": 2.617,
+            "price": 641.88,
+            "discount": 61,
+            "author": [
+                "Julie Ryan",
+                "David Moore",
+                "Thomas Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1724,
+            "pages": 1335,
+            "isbn13": "978-0-8112-4716-0",
+            "rating": 3.066,
+            "price": 483.98,
+            "discount": 33,
+            "author": [
+                "Peggy Lewis",
+                "Sharon Lawson",
+                "Patricia Maldonado"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Алиса в Стране чудес",
+            "year": 1869,
+            "pages": 431,
+            "isbn13": "978-0-567-66470-9",
+            "rating": 4.572,
+            "price": 816.07,
+            "discount": 76,
+            "author": [
+                "Thomas Rivera",
+                "Joshua Mckee",
+                "Angela Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1882,
+            "pages": 532,
+            "isbn13": "978-1-241-77935-1",
+            "rating": 2.383,
+            "price": 691.51,
+            "discount": 97,
+            "author": [
+                "Timothy Jacobs",
+                "Elaine Lynch"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1847,
+            "pages": 658,
+            "isbn13": "978-1-374-37520-8",
+            "rating": 4.292,
+            "price": 964.87,
+            "discount": 74,
+            "author": [
+                "Dylan Nelson",
+                "Megan Williams",
+                "James Banks"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1828,
+            "pages": 1164,
+            "isbn13": "978-0-500-36214-3",
+            "rating": 4.23,
+            "price": 185.94,
+            "discount": 89,
+            "author": [
+                "Mary Norris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1796,
+            "pages": 985,
+            "isbn13": "978-0-605-96070-1",
+            "rating": 0.123,
+            "price": 745.26,
+            "discount": 22,
+            "author": [
+                "Anthony Rich"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1828,
+            "pages": 453,
+            "isbn13": "978-1-135-39180-5",
+            "rating": 0.064,
+            "price": 684.48,
+            "discount": 95,
+            "author": [
+                "Adam George"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1993,
+            "pages": 555,
+            "isbn13": "978-1-00-133163-8",
+            "rating": 2.348,
+            "price": 890.01,
+            "discount": 5,
+            "author": [
+                "Amy Rogers",
+                "Amanda Beck"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "Крестный отец",
+            "year": 1781,
+            "pages": 971,
+            "isbn13": "978-1-77168-612-9",
+            "rating": 3.715,
+            "price": 490.05,
+            "discount": 10,
+            "author": [
+                "Brandy Henry",
+                "Morgan Macias",
+                "Timothy Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1973,
+            "pages": 1214,
+            "isbn13": "978-0-283-40350-7",
+            "rating": 2.073,
+            "price": 780.75,
+            "discount": 16,
+            "author": [
+                "Brian Bradford"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Унесенные ветром",
+            "year": 1992,
+            "pages": 869,
+            "isbn13": "978-0-660-76865-6",
+            "rating": 3.926,
+            "price": 94.79,
+            "discount": 61,
+            "author": [
+                "Kayla Bradshaw",
+                "John Frost"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 1710,
+            "pages": 857,
+            "isbn13": "978-0-299-07122-6",
+            "rating": 0.444,
+            "price": 139.23,
+            "discount": 0,
+            "author": [
+                "Richard Lawrence",
+                "Charles Noble",
+                "Robert Peters"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1851,
+            "pages": 591,
+            "isbn13": "978-1-85136-217-2",
+            "rating": 1.209,
+            "price": 943.76,
+            "discount": 92,
+            "author": [
+                "Aaron Chambers",
+                "Christina Farrell",
+                "Anna Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "Граф Монте-Кристо",
+            "year": 2019,
+            "pages": 402,
+            "isbn13": "978-0-263-85779-5",
+            "rating": 2.815,
+            "price": 120.09,
+            "discount": 21,
+            "author": [
+                "Ann Reynolds"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "Война и мир",
+            "year": 1726,
+            "pages": 749,
+            "isbn13": "978-1-300-18847-6",
+            "rating": 1.882,
+            "price": 912.18,
+            "discount": 22,
+            "author": [
+                "Steven Daniels",
+                "Luis Reese",
+                "Justin Norris"
+            ]
+        }
+    }
+]
